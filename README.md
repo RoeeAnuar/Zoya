@@ -1,1 +1,1 @@
-[{'gamename':'Azul'},{'gamename':'7 Wonders'}]
+[{"gamename": "Azul"}, {"gamename": "7 Wonders"}, {"gamename": "Catan"}]
